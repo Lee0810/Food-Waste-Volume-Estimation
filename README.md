@@ -24,9 +24,3 @@ This folder contains the complete implementation of a food waste estimation syst
 #### Python File
 **block.py:** This is the Python file with the implementation of Star Block, and the C2f-star code. 
 
-#### Folders
-1. FoodWasteVolume\_results: This folder stores the output files of the food waste volume estimation, including CSV results and calculated volume indices.
-2. MiDaS: This folder contains the MiDaS monocular depth estimation model and related files used to generate depth maps from RGB images.
-3. DetectFood: This folder stores trained YOLOv8 detection models and detection inference results.
-4. Result\_CLS\_No\_Neck: This folder contains training logs, model weights, and results for YOLOv8 classification models without a neck module.
-5. Result\_CLS\_Neck: This folder contains training logs, model weights, and results for YOLOv8 classification models with a neck module, including Star Block and attention-based models.
